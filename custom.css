@@ -1,14 +1,22 @@
-*, html {
+body, html {
   font-family: 'Inconsolata', monospace;
   background-color: #fffff8;
   color: #111;
-}
-
-body, html {
   font-size: 13px;
   background-color: #fffff8;
 }
 
+#wiki-wrapper.edit {
+  margin-top: 2em;
+}
+
+#gollum-editor {
+  padding: 1em 1em 0.4em;
+}
+
+#gollum-editor-help {
+  font-size: 10px;
+}
 
 #wiki-content p, ol, ul {
   font-size: 1.5em;
@@ -70,6 +78,9 @@ body, html {
 @media all and (min-width: 940px) {
   #head #header {
     margin-bottom: 5em;
+  }
+  #wiki-body {
+    margin-bottom: 6em;
   }
   #head h1 {
     font-size: 3em;
