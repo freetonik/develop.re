@@ -2,9 +2,32 @@ body, html {
   font-family: 'Inconsolata', monospace;
   background-color: #fffff8;
   color: #111;
-  font-size: 13px;
+  font-size: 0.938em;
+  font-weight: 400;
+  line-height: 1.45;
   background-color: #fffff8;
 }
+
+#wiki-content p {margin-bottom: 1.3em;}
+
+#wiki-content h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+}
+
+#wiki-content h1 {
+  margin-top: 0;
+  font-size: 3.998em;
+}
+
+#wiki-content h2 {font-size: 2.827em;}
+
+#wiki-content h3 {font-size: 1.999em;}
+
+#wiki-content h4 {font-size: 1.414em;}
+
+small, .font_small {font-size: 0.707em;}
 
 #wiki-wrapper.edit {
   margin-top: 2em;
@@ -51,7 +74,7 @@ body, html {
 }
 
 #head #header #homelink {
-  margin-right: 2em;
+  margin: 0 2em 5px 0;
   font-size: 1.8em;
   background-color: #f7f7e6;
   font-weight: normal;
@@ -79,18 +102,33 @@ textarea#gollum-editor-body {
   font-size: 16px;
 }
 
+.markdown-body pre {
+  border-radius: none;
+  border: none;
+  padding: 16px;
+}
+
+.markdown-body code {
+  font-size: 16px;
+}
+
+.markdown-body img {
+  margin: 1em 0;
+}
+
 @media all and (min-width: 940px) {
   #head #header {
-    margin-bottom: 5em;
+    margin-bottom: 6em;
   }
   #wiki-body {
     margin-bottom: 6em;
   }
   #head h1 {
-    font-size: 3em;
-    padding: 0 0 0 0.33em;
+    font-size: 3.998em;
+    padding: 0 0 0 0.23em;
   }
   .page #footer {
     padding-left: 0;
   }
 }
+
