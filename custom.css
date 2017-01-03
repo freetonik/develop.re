@@ -2,7 +2,7 @@ body, html {
   font-family: 'Inconsolata', monospace;
   background-color: #fffff8;
   color: #111;
-  font-size: 0.938em;
+  font-size: 13px;
   font-weight: 400;
   line-height: 1.45;
   background-color: #fffff8;
@@ -124,7 +124,7 @@ textarea#gollum-editor-body {
     margin-bottom: 6em;
   }
   #head h1 {
-    font-size: 3.998em;
+    font-size: 3.3em;
     padding: 0 0 0 0.23em;
   }
   .page #footer {
