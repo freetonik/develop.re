@@ -8,6 +8,16 @@ body, html {
   background-color: #fffff8;
 }
 
+sup, sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+
+sub { 
+  top: 0.4em; 
+}
+
 #wiki-content p {margin-bottom: 1.3em;}
 
 #wiki-content h1, h2, h3, h4 {
