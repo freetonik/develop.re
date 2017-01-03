@@ -1,7 +1,10 @@
 A **recursive process** is a process of computation, characterized by a chain of _deferred_ operations. Carrying out this process requires that the interpreter keeps track of the operations to be performed later on. <sup>1</sup>
 
-### Example
-**Scheme:**
+### Examples
+
+The following functions calculate the factorial using recursion. The corresponding computational process is an example of a recursive process.
+
+####Scheme:
 ```scheme
 (define (factorial n)
   (if (= n 1)
@@ -9,7 +12,7 @@ A **recursive process** is a process of computation, characterized by a chain of
       (* n (factorial (- n 1)))))
 ```
 
-**JavaScript:**
+####JavaScript:
 ```javascript
 const factorial = (n) => {
   if (n === 0) {
@@ -19,7 +22,7 @@ const factorial = (n) => {
 }
 ```
 
-[[/uploads/recursion.gif]]
+[[/uploads/fact-shape.gif]]
 
 ---
 
