@@ -68,5 +68,8 @@ const isPalindrome = (str) => {
 
 
 ---
-1. [[https://www.cs.utah.edu/~germain/PPS/Topics/recursion.html]]
-2. [[https://www.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/recursion]]
+<div class="footnotes">
+1.[[https://www.cs.utah.edu/~germain/PPS/Topics/recursion.html]]
+<br>
+2.[[https://www.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/recursion]]
+</div>
