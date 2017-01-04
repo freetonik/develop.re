@@ -126,6 +126,10 @@ textarea#gollum-editor-body {
   margin: 1em 0;
 }
 
+#footnotes, #footnotes a {
+  color: #999;
+}
+
 @media all and (min-width: 940px) {
   #head #header {
     margin-bottom: 6em;
