@@ -7,7 +7,7 @@
 
 ### R
 - [[Recursion]]
-- [[Recursive-process]]
+- [Recursive process](Recursive-process)
 
 ## About
 **develop.re** is a git-based wiki running with [gollum](https://github.com/gollum/gollum) with [custom gollum templates](https://github.com/freetonik/develop.re-templates) and custom styles (stored with the text files). Source text files are available on [github](https://github.com/freetonik/develop.re). 
