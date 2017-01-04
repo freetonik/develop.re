@@ -2,6 +2,8 @@
 
 In programming, recursion usually means that a function calls itself until it doesn't.
 
+_See also: [[Recursive process]]._
+
 [[/uploads/0DaD5.jpg]]
 
 ### Alternative explanations
