@@ -25,5 +25,6 @@ const factorial = (n) => {
 [[/uploads/fact-shape.gif]]
 
 ---
-
+<div id="footnotes">
 1. Structure and Interpretation of Computer Programs, chapter 1.2
+</div>
