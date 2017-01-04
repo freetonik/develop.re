@@ -1,4 +1,4 @@
-**develop.re** is an illustrated computer science dictionary. It aims to create a comprehensive mini-encyclopedia of computer science topics, with short explanations, illustrations, and links to additional materials — books, papers, blogs, and videos.
+**develop.re** is a concise reference book of computer science and programming topics. It aims to collect good and short explanations with illustrations, examples, and links to additional materials — books, papers, blogs, and videos.
 
 ## List of articles
 
