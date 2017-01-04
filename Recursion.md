@@ -68,7 +68,7 @@ const isPalindrome = (str) => {
 
 
 ---
-<div class="footnotes">
+<div id="footnotes">
 1.[[https://www.cs.utah.edu/~germain/PPS/Topics/recursion.html]]
 <br>
 2.[[https://www.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/recursion]]
