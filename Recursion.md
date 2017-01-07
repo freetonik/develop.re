@@ -7,9 +7,9 @@ _See also: [[Recursive process]]._
 [[/uploads/0DaD5.jpg]]
 
 ### Alternative explanations
-Recursion is the process of defining a problem (or the solution to a problem) in terms of (a simpler version of) itself.<sup>1</sup>
+I. Recursion is the process of defining a problem (or the solution to a problem) in terms of (a simpler version of) itself.<sup>1</sup>
 
-Recursion is a technique of designing algorithms to solve a problem by solving a smaller instance of the same problem, unless the problem is so small that we can just solve it directly.<sup>2</sup>
+II. Recursion is a technique of designing algorithms to solve a problem by solving a smaller instance of the same problem, unless the problem is so small that we can just solve it directly.<sup>2</sup>
 
 ### Examples
 
