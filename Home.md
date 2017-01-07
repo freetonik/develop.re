@@ -5,6 +5,9 @@
 ### H
 - [[Hook]]
 
+### M
+- [[Mixin]]
+
 ### R
 - [[Recursion]]
 - [Recursive process](Recursive-process)
