@@ -12,6 +12,9 @@
 - [[Recursion]]
 - [Recursive process](Recursive-process)
 
+### S
+- [[Shim]]
+
 ### I
 - [[Iteration]]
 
