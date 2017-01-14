@@ -1,6 +1,9 @@
-**develop.re** is a concise reference book of computer science and programming topics. It aims to collect good and short explanations with illustrations, examples, and links to additional materials — books, papers, blogs, and videos.
+**develop.re** is a concise reference book of computer science topics. It aims to collect good and short explanations with illustrations, examples, and links to related videos, books, papers, and articles.
 
 ## List of articles
+
+### A
+- [[Array]]
 
 ### H
 - [[Hook]]
@@ -19,5 +22,5 @@
 - [[Iteration]]
 
 ## About
-**develop.re** is a git-based wiki running with [gollum](https://github.com/gollum/gollum) with [custom gollum templates](https://github.com/freetonik/develop.re-templates) and custom styles (stored with the text files). Source text files are available on [github](https://github.com/freetonik/develop.re). 
+**develop.re** is a git-based wiki running with [gollum](https://github.com/gollum/gollum) and [custom gollum templates](https://github.com/freetonik/develop.re-templates) and custom styles (stored with the text files). Source text files are available on [github](https://github.com/freetonik/develop.re). 
 
