@@ -4,7 +4,7 @@ When used without specific explanations and in general context, **compiling** us
 
 [[/uploads/compiler.png]]
 
-<small>Source: http://teamjarvis.weebly.com/</small>
+<small>Image source: http://teamjarvis.weebly.com/</small>
 
 ### Videos
 1. [How does a compiler, interpreter, and CPU work?](https://www.youtube.com/watch?v=OVTu4XcmnwE)
