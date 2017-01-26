@@ -4,6 +4,8 @@ When used without specific explanations and in general context, **compiling** us
 
 [[/uploads/compiler.png]]
 
+<small>Source: http://teamjarvis.weebly.com/</small>
+
 ### Videos
 1. [How does a compiler, interpreter, and CPU work?](https://www.youtube.com/watch?v=OVTu4XcmnwE)
 2. [Comparing C to machine language](https://www.youtube.com/watch?v=yOyaJXpAYZQ)(a comparison of the source code and target code)
