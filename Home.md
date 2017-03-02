@@ -27,3 +27,4 @@
 ## About
 **develop.re** is a git-based wiki running with [gollum](https://github.com/gollum/gollum), [custom gollum templates](https://github.com/freetonik/develop.re-templates) and custom styles (stored with the text files). Source text files are available on [github](https://github.com/freetonik/develop.re). Feel free to contribute via PR.
 
+develop.re is created and maintained by [Rakhim Davletkaliyev](https://hello.rakh.im/).
